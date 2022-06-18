@@ -1,7 +1,7 @@
 <h1 align="center">:file_cabinet: Angular Byte Bank</h1>
 
 ## :memo: Descrição
-Projeto de estudos para microserviços
+Projeto de estudos Angular Básico
 
 ## :books: Funcionalidades
 * <b>Funcionalidades</b>: Projeto de simulação de transferências.
