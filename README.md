@@ -11,9 +11,9 @@ Projeto de estudos para microserviços
 * JsonServer
 
 ## :rocket: Rodando o projeto
-XX ng s -o
+* ng s -o - Rodar o Projeto Angular
 ```
-XX json-server --watch db.json
+* json-server --watch db.json - Rodar o Servidor
 ```
 
 ## :dart: Status do projeto
